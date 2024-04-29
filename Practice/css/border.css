@@ -1,0 +1,10 @@
+.wrap{
+    align-content: center;
+    width: 60%;
+    border: 2px dashed chocolate;
+    border-bottom-width: thick;
+    border-right-width: thin;
+    border-right-style: dotted;
+    padding-right: 20%;
+    padding-left: 20%;
+}

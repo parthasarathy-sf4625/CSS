@@ -1,0 +1,20 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    background-color: greenyellow;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+   
+    
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.element{
+    background-color: black;
+    margin: 0px;
+    padding: 15px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}

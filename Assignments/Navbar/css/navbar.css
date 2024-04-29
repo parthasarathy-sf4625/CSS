@@ -1,0 +1,13 @@
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: fit-content;
+    justify-content: center;
+}
+.logo{
+    margin-right:-10%;
+    
+}
