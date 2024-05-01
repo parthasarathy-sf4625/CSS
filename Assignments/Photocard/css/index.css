@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 97%; 
+ }
+
+  
+  .photocard {
+    width: 30rem;
+    overflow: hidden;
+    box-shadow: 0 0 2px 2px #e2dddd;
+    
+  }
+  
+  .photocard img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .photocard .overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6%;
+    align-items: center;
+  }
